@@ -1,3 +1,5 @@
+# Arcanum [기업협약 프로젝트] [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jSM_-5NUUP0)
+
 ## 1. 프로젝트 개요
 
 쿼터뷰 스타일의 전략 자동 디펜스 RPG,  
